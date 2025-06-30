@@ -1,4 +1,5 @@
-- get movie type from user 
+- get movie type from user
+- user adds own api key
 - use api key and send request 
 - get response
 - show user movies
