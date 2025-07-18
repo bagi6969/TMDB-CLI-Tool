@@ -1,7 +1,8 @@
 import typer
 import os
 from dotenv import load_dotenv
-from src.tmdb import fetch_movie
+from tmdb_cli.tmdb import fetch_movie
+
 
 load_dotenv()
 app = typer.Typer()
