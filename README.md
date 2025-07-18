@@ -18,3 +18,9 @@ pip install .
 
 tmdb --help
 
+
+Eg.
+tmdb -t top -k --API-KEY--
+
+
+
