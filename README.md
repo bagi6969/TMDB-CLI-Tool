@@ -1,6 +1,20 @@
-- get movie type from user
-- user adds own api key
-- use api key and send request 
-- get response
-- show user movies
-- 
+-Fetch movies by category (popular, top rated, etc.)
+
+-Pass TMDB API key via CLI or .env file
+
+-Output movie titles, release dates, and descriptions
+
+-Built with Python + Typer
+
+
+***HOW TO INSTALL & USE***
+
+git clone https://github.com/bagi6969/TMDB-CLI-Tool.git
+
+cd TMDB-CLI-Tool
+
+pip install .
+
+
+tmdb --help
+
